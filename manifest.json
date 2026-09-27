@@ -1,0 +1,350 @@
+[
+  {
+    "file": "assets/seojin-body-1.png",
+    "person": "seojin",
+    "kind": "body",
+    "view": 1,
+    "crop": [
+      150,
+      597,
+      365,
+      966
+    ],
+    "size": [
+      215,
+      369
+    ]
+  },
+  {
+    "file": "assets/seojin-body-2.png",
+    "person": "seojin",
+    "kind": "body",
+    "view": 2,
+    "crop": [
+      677,
+      603,
+      865,
+      966
+    ],
+    "size": [
+      188,
+      363
+    ]
+  },
+  {
+    "file": "assets/seojin-body-3.png",
+    "person": "seojin",
+    "kind": "body",
+    "view": 3,
+    "crop": [
+      1170,
+      588,
+      1380,
+      966
+    ],
+    "size": [
+      210,
+      378
+    ]
+  },
+  {
+    "file": "assets/seojin-body-sheet.png",
+    "person": "seojin",
+    "kind": "body",
+    "view": "sheet",
+    "size": [
+      1500,
+      560
+    ]
+  },
+  {
+    "file": "assets/seojin-full-1.png",
+    "person": "seojin",
+    "kind": "full",
+    "view": 1,
+    "crop": [
+      150,
+      489,
+      365,
+      966
+    ],
+    "size": [
+      215,
+      477
+    ]
+  },
+  {
+    "file": "assets/seojin-full-2.png",
+    "person": "seojin",
+    "kind": "full",
+    "view": 2,
+    "crop": [
+      677,
+      489,
+      865,
+      966
+    ],
+    "size": [
+      188,
+      477
+    ]
+  },
+  {
+    "file": "assets/seojin-full-3.png",
+    "person": "seojin",
+    "kind": "full",
+    "view": 3,
+    "crop": [
+      1170,
+      489,
+      1380,
+      966
+    ],
+    "size": [
+      210,
+      477
+    ]
+  },
+  {
+    "file": "assets/seojin-full-sheet.png",
+    "person": "seojin",
+    "kind": "full",
+    "view": "sheet",
+    "size": [
+      1500,
+      560
+    ]
+  },
+  {
+    "file": "assets/seojin-upper-1.png",
+    "person": "seojin",
+    "kind": "upper",
+    "view": 1,
+    "crop": [
+      40,
+      50,
+      485,
+      453
+    ],
+    "size": [
+      445,
+      403
+    ]
+  },
+  {
+    "file": "assets/seojin-upper-2.png",
+    "person": "seojin",
+    "kind": "upper",
+    "view": 2,
+    "crop": [
+      552,
+      50,
+      985,
+      453
+    ],
+    "size": [
+      433,
+      403
+    ]
+  },
+  {
+    "file": "assets/seojin-upper-3.png",
+    "person": "seojin",
+    "kind": "upper",
+    "view": 3,
+    "crop": [
+      1045,
+      50,
+      1500,
+      453
+    ],
+    "size": [
+      455,
+      403
+    ]
+  },
+  {
+    "file": "assets/seojin-upper-sheet.png",
+    "person": "seojin",
+    "kind": "upper",
+    "view": "sheet",
+    "size": [
+      1500,
+      560
+    ]
+  },
+  {
+    "file": "assets/cheolmin-body-1.png",
+    "person": "cheolmin",
+    "kind": "body",
+    "view": 1,
+    "crop": [
+      170,
+      605,
+      352,
+      980
+    ],
+    "size": [
+      182,
+      375
+    ]
+  },
+  {
+    "file": "assets/cheolmin-body-2.png",
+    "person": "cheolmin",
+    "kind": "body",
+    "view": 2,
+    "crop": [
+      678,
+      605,
+      846,
+      980
+    ],
+    "size": [
+      168,
+      375
+    ]
+  },
+  {
+    "file": "assets/cheolmin-body-3.png",
+    "person": "cheolmin",
+    "kind": "body",
+    "view": 3,
+    "crop": [
+      1180,
+      590,
+      1370,
+      980
+    ],
+    "size": [
+      190,
+      390
+    ]
+  },
+  {
+    "file": "assets/cheolmin-body-sheet.png",
+    "person": "cheolmin",
+    "kind": "body",
+    "view": "sheet",
+    "size": [
+      1500,
+      560
+    ]
+  },
+  {
+    "file": "assets/cheolmin-full-1.png",
+    "person": "cheolmin",
+    "kind": "full",
+    "view": 1,
+    "crop": [
+      170,
+      522,
+      352,
+      980
+    ],
+    "size": [
+      182,
+      458
+    ]
+  },
+  {
+    "file": "assets/cheolmin-full-2.png",
+    "person": "cheolmin",
+    "kind": "full",
+    "view": 2,
+    "crop": [
+      678,
+      522,
+      846,
+      980
+    ],
+    "size": [
+      168,
+      458
+    ]
+  },
+  {
+    "file": "assets/cheolmin-full-3.png",
+    "person": "cheolmin",
+    "kind": "full",
+    "view": 3,
+    "crop": [
+      1180,
+      522,
+      1370,
+      980
+    ],
+    "size": [
+      190,
+      458
+    ]
+  },
+  {
+    "file": "assets/cheolmin-full-sheet.png",
+    "person": "cheolmin",
+    "kind": "full",
+    "view": "sheet",
+    "size": [
+      1500,
+      560
+    ]
+  },
+  {
+    "file": "assets/cheolmin-upper-1.png",
+    "person": "cheolmin",
+    "kind": "upper",
+    "view": 1,
+    "crop": [
+      40,
+      62,
+      495,
+      489
+    ],
+    "size": [
+      455,
+      427
+    ]
+  },
+  {
+    "file": "assets/cheolmin-upper-2.png",
+    "person": "cheolmin",
+    "kind": "upper",
+    "view": 2,
+    "crop": [
+      537,
+      62,
+      995,
+      489
+    ],
+    "size": [
+      458,
+      427
+    ]
+  },
+  {
+    "file": "assets/cheolmin-upper-3.png",
+    "person": "cheolmin",
+    "kind": "upper",
+    "view": 3,
+    "crop": [
+      1040,
+      62,
+      1500,
+      489
+    ],
+    "size": [
+      460,
+      427
+    ]
+  },
+  {
+    "file": "assets/cheolmin-upper-sheet.png",
+    "person": "cheolmin",
+    "kind": "upper",
+    "view": "sheet",
+    "size": [
+      1500,
+      560
+    ]
+  }
+]
